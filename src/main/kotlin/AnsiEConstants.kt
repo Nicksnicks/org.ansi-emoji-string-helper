@@ -1,3 +1,12 @@
+import AnsiEConstants.AnsiStrings.AS_BLACK
+import AnsiEConstants.AnsiStrings.AS_BLUE
+import AnsiEConstants.AnsiStrings.AS_CYAN
+import AnsiEConstants.AnsiStrings.AS_GREEN
+import AnsiEConstants.AnsiStrings.AS_PURPLE
+import AnsiEConstants.AnsiStrings.AS_RED
+import AnsiEConstants.AnsiStrings.AS_WHITE
+import AnsiEConstants.AnsiStrings.AS_YELLOW
+
 object AnsiEConstants {
 
     object AnsiStrings {
