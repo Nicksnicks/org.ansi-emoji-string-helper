@@ -6,6 +6,11 @@ import AnsiEConstants.AnsiStrings.AS_PURPLE
 import AnsiEConstants.AnsiStrings.AS_RED
 import AnsiEConstants.AnsiStrings.AS_WHITE
 import AnsiEConstants.AnsiStrings.AS_YELLOW
+import AnsiEConstants.E.DEVIL
+import AnsiEConstants.E.FOUR_LEAF_CLOVER
+import AnsiEConstants.E.LIGHTNING
+import AnsiEConstants.E.SAD_DEVIL
+import AnsiEHelper.printlnAnsi
 
 object AnsiEConstants {
 
@@ -42,5 +47,6 @@ object AnsiEConstants {
         const val DRAGON = "\uD83D\uDC09"
         const val AIM = "\uD83C\uDFAF"
         const val BLACK_GLASSES = "\uD83D\uDD76"
+        const val FOUR_LEAF_CLOVER = "\uD83C\uDF40"
     }
 }
